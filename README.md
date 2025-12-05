@@ -1,36 +1,38 @@
-Pagina de Jorge 💻
+# joorg3mayoor.github.io
 
-💡 Propósito
-Este repositorio aloja los archivos estáticos para mi sitio web personal y portafolio, utilizando GitHub Pages.
+## 💡 Propósito
+
+Este repositorio aloja los archivos estáticos para mi sitio web personal y portafolio, utilizando **GitHub Pages**.
 
 El objetivo es crear una plataforma para exhibir mis proyectos y proporcionar información de contacto.
 
-🚧 Estado del Proyecto
-El proyecto se inició el 4 de diciembre de 2025 y está actualmente en fase de desarrollo inicial.
+## 🚧 Estado del Proyecto
 
-Enlace en Vivo: https://joorg3mayoor.github.io/
+El proyecto se inició el **4 de diciembre de 2025** y está actualmente en fase de **desarrollo inicial (WIP - Work in Progress)**.
 
-🛠️ Tecnología Base
-HTML5
+* **Enlace en Vivo:** [https://joorg3mayoor.github.io/](https://joorg3mayoor.github.io/)
 
-CSS3
+## 🛠️ Tecnología Base
 
-GitHub Pages
+* HTML5
+* CSS3
+* GitHub Pages
 
-📂 Estructura
-La estructura inicial del proyecto es la siguiente:
+## 📂 Estructura del Proyecto
+El repositorio sigue una organización muy sencilla y mínima:
 
-joorg3mayoor.github.io/
-├── index.html          # Punto de entrada principal.       
-└── css/
-    └── main.css      # Hoja de estilos.
+index.html: El archivo principal que carga el sitio.
 
-💻 Uso Local
+css/: Carpeta que contiene todas las hojas de estilo del proyecto.
+
+main.css: El archivo CSS principal.
+
+## 💻 Uso Local
+
 Para ver el proyecto localmente, solo tienes que:
 
-Clonar el repositorio:
-
-Bash
-
-git clone https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git
-Abrir el archivo index.html en tu navegador.
+1.  Clonar el repositorio:
+    ```bash
+    git clone [https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git](https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git)
+    ```
+2.  Abrir el archivo `index.html` en tu navegador.
