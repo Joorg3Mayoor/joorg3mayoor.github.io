@@ -33,6 +33,6 @@ Para ver el proyecto localmente, solo tienes que:
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git](https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git)
+    git clone https://github.com/Joorg3Mayoor/joorg3mayoor.github.io.git
     ```
 2.  Abrir el archivo `index.html` en tu navegador.
