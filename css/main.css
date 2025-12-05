@@ -1,21 +1,25 @@
-/* Applies to the entire body of the HTML document (except where overridden by more specific
-selectors). */
+/* Esto aplica estilos al cuerpo completo de la página */
 body {
-  margin: 25px;
-  background-color: rgb(240,240,240);
-  font-family: arial, sans-serif;
-  font-size: 14px;
+    background-color: #e0f7fa; /* Fondo azul claro */
+    font-family: Arial, sans-serif; /* Cambia la fuente */
+    color: #333333; /* Color de texto gris oscuro */
+    padding: 20px; /* Un poco de espacio alrededor del contenido */
 }
 
-/* Applies to all <h1>...</h1> elements. */
+/* Esto aplica estilos al encabezado <h1> */
 h1 {
-  font-size: 35px;
-  font-weight: normal;
-  margin-top: 5px;
+    color: #00796b; /* Un color verde azulado fuerte */
+    text-align: center; /* ¡Centra el texto! */
+    border-bottom: 2px solid #00796b; /* Una línea debajo del título */
+    padding-bottom: 10px;
 }
 
-/* Applies to all elements with <... class="someclass"> specified. */
-.someclass { color: red; }
-
-/* Applies to the element with <... id="someid"> specified. */
-#someid { color: green; }
+/* Esto aplica estilos al párrafo <p> */
+p {
+    font-size: 1.1em; /* Un tamaño de fuente un poco más grande */
+    line-height: 1.5; /* Espaciado entre líneas */
+    margin-top: 20px;
+    border: 1px dashed #bdbdbd; /* Borde discontinuo para que se note */
+    padding: 15px;
+    background-color: #ffffff; /* Fondo blanco para el párrafo */
+}
