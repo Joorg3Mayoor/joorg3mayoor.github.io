@@ -1,4 +1,4 @@
-# joorg3mayoor.github.io
+# Página de Jorge 💻
 
 ## 💡 Propósito
 
@@ -14,12 +14,11 @@ El proyecto se inició el **4 de diciembre de 2025** y está actualmente en fase
 
 ## 🛠️ Tecnología Base
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * GitHub Pages
 
 ## 📂 Estructura del Proyecto
-El repositorio sigue una organización muy sencilla y mínima:
 
 ```
 joorg3mayoor.github.io/
