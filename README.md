@@ -21,12 +21,12 @@ El proyecto se inició el **4 de diciembre de 2025** y está actualmente en fase
 ## 📂 Estructura del Proyecto
 El repositorio sigue una organización muy sencilla y mínima:
 
-"""
+```
 joorg3mayoor.github.io/
 ├── index.html
 └── css/
     └── main.css
-"""
+```
 
 ## 💻 Uso Local
 
