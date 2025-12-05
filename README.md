@@ -21,11 +21,12 @@ El proyecto se inició el **4 de diciembre de 2025** y está actualmente en fase
 ## 📂 Estructura del Proyecto
 El repositorio sigue una organización muy sencilla y mínima:
 
-index.html: El archivo principal que carga el sitio.
-
-css/: Carpeta que contiene todas las hojas de estilo del proyecto.
-
-main.css: El archivo CSS principal.
+"""
+joorg3mayoor.github.io/
+├── index.html
+└── css/
+    └── main.css
+"""
 
 ## 💻 Uso Local
 
