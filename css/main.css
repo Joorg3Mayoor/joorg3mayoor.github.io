@@ -19,7 +19,7 @@ p {
     font-size: 1.1em; /* Un tamaño de fuente un poco más grande */
     line-height: 1.5; /* Espaciado entre líneas */
     margin-top: 20px;
-    border: 1px dashed #bdbdbd; /* Borde discontinuo para que se note */
+    border: 1px #bdbdbd; /* Borde discontinuo para que se note */
     padding: 15px;
-    background-color: #ffffff; /* Fondo blanco para el párrafo */
+    background-color: #000000; /* Fondo blanco para el párrafo */
 }
